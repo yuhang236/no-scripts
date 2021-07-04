@@ -1,5 +1,5 @@
 ### Usage
-> 推荐使用`docker-compose`所以这里只介绍`docker-compose`使用方式
+> 推 荐使用`docker-compose`所以这里只介绍`docker-compose`使用方式
 
 - `docker-compose` 安装（群晖nas docker自带安装了docker-compose）
 ```
